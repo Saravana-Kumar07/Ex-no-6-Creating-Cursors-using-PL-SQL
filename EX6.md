@@ -1,4 +1,4 @@
-# <p align="center"> Ex. No: 5 Creating Cursors using PL/SQL</p>
+# <p align="center"> Ex. No: 6 Creating Cursors using PL/SQL</p>
 ### DATE: 26/09/23
 ## AIM: 
 To create a cursor using PL/SQL.

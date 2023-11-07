@@ -25,6 +25,8 @@ emp_id NUMBER;
 emp_name VARCHAR(50);
 emp_dept VARCHAR(50);
 emp_salary NUMBER;
+```
+```
 BEGIN
 OPEN empe_cursor;
 LOOP
